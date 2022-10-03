@@ -1,0 +1,2 @@
+token_telegram =''
+cID = ''
