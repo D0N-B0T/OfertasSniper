@@ -1,3 +1,5 @@
+# outdated.
+
 ##  Solotodo Price Bot
 
 This script is a Telegram bot that monitors product prices on Solotodo.cl and sends notifications when a price drops. 
